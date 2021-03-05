@@ -12,6 +12,9 @@ Q1.2
 (0, 255, 255)   Teal
 
 
+
+![Cluster Center](https://user-images.githubusercontent.com/52374467/110054759-b0e71f00-7d29-11eb-9efb-5a36b8ee3322.JPG)
+
 Q2.1a) What dataset is the figure visualizing? 
 The dataset is visualizing the closeness of a particular cluster to its cluster center. It is showing how uniform a cluster group is getting to a certain destination at a certain time, depending on the day of the week and the month of the year.
 
@@ -29,6 +32,25 @@ Q2.2 b) Which color deficiencies (if any) make out the “Fall season shift”?
 Blue-blind/tritanopia and blue-weak/tritanomoly make out the “Fall season shift”.
 
 Q2.3 Test yourself. Based on the red and green blocks on the right, complete the matching exercise below to predict the blocks will appear for each deficiency. Upon completion, check your responses in Coblis and discuss any discrepancies.
+![Color Matching](https://user-images.githubusercontent.com/52374467/110053739-f0ad0700-7d27-11eb-8726-698e4e7a955c.JPG)
+
+
+
+
+Q3.1 Reflect on your experience with using the tool and the ramps you created. 
+I used a bathymetric image from the QGIS lab to observe the ColorMoves App features. Changing the color ramps and observing the color concentrations provide insight on which colors 
+are best fit to convey a message in your visualization by focusing on saturation, luminance and the type of image itself.
+![Color Map](https://user-images.githubusercontent.com/52374467/110054071-6fa23f80-7d28-11eb-89ca-91025a49005f.JPG)
+
+
+
+Color IQ: Scored 0 and passed in flying colors!
+![X Rite Color Challenge and Hue Test](https://user-images.githubusercontent.com/52374467/110054596-5fd72b00-7d29-11eb-8120-9b5c55b4ab54.JPG)
+
+
+
+
+
 
 
 
